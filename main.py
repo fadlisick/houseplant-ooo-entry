@@ -8,7 +8,7 @@
 
 from pathlib import Path
 
-REPLY = "Out of office: your email has been forwarded to the watering can. It is empty too."
+REPLY = "Out of office: email forwarded to the watering can. It's empty too."
 
 MAX_CHARS = 120
 FILENAME = "entry.txt"
